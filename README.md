@@ -2,15 +2,13 @@
 
 # Anomaly Detection Algorithms for Large-Scale Industrial Tabular Data
 
-This is a anomaly detection method used for industrial tabular data. It combines DeepSVDD, attention and Mahalanobis distance.
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Apa License][license-shield]][license-url]
+[![Apache License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -21,18 +19,18 @@ This is a anomaly detection method used for industrial tabular data. It combines
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">Anomaly Detection Algorithms for Large-Scale Industrial Tabular Data</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    This is a anomaly detection method used for industrial tabular data. It combines DeepSVDD, attention and Mahalanobis distance
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/ZhangYH2020/OD"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://github.com/ZhangYH2020/OD">查看Demo</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/ZhangYH2020/OD">报告Bug</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/ZhangYH2020/OD">提出新特性</a>
   </p>
 
 </p>
