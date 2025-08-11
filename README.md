@@ -1,8 +1,8 @@
 
 
-# ProjectName
+# Anomaly Detection Algorithms for Large-Scale Industrial Tabular Data
 
-ProjectName and Description
+This is a anomaly detection method used for industrial tabular data. It combines DeepSVDD, attention and Mahalanobis distance.
 
 <!-- PROJECT SHIELDS -->
 
@@ -10,7 +10,7 @@ ProjectName and Description
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Apa License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
